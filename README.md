@@ -12,5 +12,7 @@
 
 <a href="https://docs.google.com/presentation/d/1sgtCN9rKdnkCQEvN7Alcag_6DLGHecdB2v-w1xXN4uI/edit?usp=sharing
 ">크롬다이노 피피티 링크</a>
+
+(시연영상이 포함되어 있습니다.)
 ## 
 총소요기간 : 30일
